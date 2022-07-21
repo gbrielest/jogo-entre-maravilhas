@@ -3884,6 +3884,7 @@ self.C3_JsPropNameTable = [
 	{voltar: 0},
 	{vídeo5: 0},
 	{pontosFim: 0},
+	{parede: 0},
 	{PONTOS: 0},
 	{VIDAS: 0},
 	{PONTOS2: 0},
